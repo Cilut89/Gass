@@ -1,0 +1,1394 @@
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://static.visionplus.id/images/channel/928ba7e3/38c2.png" group-title="National TV",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:0 tvg-id="SCTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="National TV", SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/sctv.m3u8
+
+#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" group-title="National TV", INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/indosiar.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="NET.id" tvg-logo="https://static.visionplus.id/images/channel/66544aea-676.png" group-title="National TV",Net.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://static.visionplus.id/images/channel/ef3eed68/040d.png" group-title="National TV",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://static.visionplus.id/images/channel/ba065727/a4fd.png" group-title="National TV",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="INews.id" tvg-logo="https://static.visionplus.id/images/channel/ab4eed7b/ddc6.png" group-title="National TV",iNewsTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://static.visionplus.id/images/channel/8f231a4a-387.png" group-title="National TV",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://static.visionplus.id/images/channel/dd26ec44-1de.png" group-title="National TV",Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://static.visionplus.id/images/channel/2428da08-ce0.png" group-title="National TV",Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://static.visionplus.id/images/channel/9360c10a-308.png" group-title="National TV",TVONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="MetroTV.id" tvg-logo="https://static.visionplus.id/images/channel/827de67d-d31.png" group-title="National TV",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://static.visionplus.id/images/channel/79b8e2c9-bdb.png" group-title="National TV",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://static.visionplus.id/images/channel/113c522c-c79.png" group-title="National TV",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="TVRINasional.id" tvg-logo="https://static.visionplus.id/images/channel/5435e889-7ef.png" group-title="National TV",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="JakTV.id" tvg-logo="https://static.visionplus.id/images/channel/c9782268-065.png" group-title="National TV",JAKTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="JTV.id" tvg-logo="https://static.visionplus.id/images/channel/1c485c69/3c2e.PNG" group-title="National TV",JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="BaliTV.id" tvg-logo="https://static.visionplus.id/images/channel/f52228f1/8aae.PNG" group-title="National TV",BALI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="DAAITV.id" tvg-logo="https://static.visionplus.id/images/channel/a41c4e81-417.png" group-title="National TV",DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="BandungTV.id" tvg-logo="https://static.visionplus.id/images/channel/c403f3ca/0649.PNG" group-title="National TV",BandungTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="BeritaSatu.id" tvg-logo="https://static.visionplus.id/images/channel/b9b6e2a5-29c.png" group-title="National TV",Berita Satu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment",Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg" group-title="Entertainment",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="MusicTV.id" tvg-logo="https://static.visionplus.id/images/channel/eec14169/b77c.png" group-title="Entertainment",Music TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="Ie.id" tvg-logo="https://static.visionplus.id/images/channel/bd9a9f43/25de.png" group-title="Entertainment",Infotainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="VisionPrime.id" tvg-logo="https://static.visionplus.id/images/channel/42e20bff/b761.png" group-title="Entertainment",Vision Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="Entertainment.id" tvg-logo="https://static.visionplus.id/images/channel/8d220a8b/11a5.png" group-title="Entertainment",MNC Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="OKTV.id" tvg-logo="https://static.visionplus.id/images/channel/dc094d97/9736.png" group-title="Entertainment",OKTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="FMN.id" tvg-logo="https://static.visionplus.id/images/channel/74aa89fb/eaab.png" group-title="Entertainment",FMN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="AXNIndonesia.id" tvg-logo="https://static.visionplus.id/images/channel/631afaf4/b65f.png" group-title="Entertainment",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="KIX.hk" tvg-logo="https://static.visionplus.id/images/channel/7ddc10af/0bfe.png" group-title="Entertainment",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="tvNAsia.hk" tvg-logo="https://static.visionplus.id/images/channel/eb0dff64/8a8d.png" group-title="Entertainment",tvN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="OneTVAsia.sg" tvg-logo="https://static.visionplus.id/images/channel/c569ee28/a905.png" group-title="Entertainment",Sony One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="LifetimeAsia.us" tvg-logo="https://static.visionplus.id/images/channel/7c4a3e53/03aa.png" group-title="Entertainment",Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="HITS.sg" tvg-logo="https://static.visionplus.id/images/channel/b8215b3e/5c5d.png" group-title="Entertainment",HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="ABCAustralia.au" tvg-logo="https://static.visionplus.id/images/channel/e8d5e3df/0483.png" group-title="Entertainment",ABC Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="JiangsuTV.Id" tvg-logo="https://static.visionplus.id/images/channel/29971f7a/c511.png" group-title="Entertainment",Jiangsu TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="HunanTV.Id" tvg-logo="https://static.visionplus.id/images/channel/9ca93998/58b3.png" group-title="Entertainment",Hunan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="ShanghaiDragonTV.Id" tvg-logo="https://static.visionplus.id/images/channel/1357abc5/f041.png" group-title="Entertainment",Dragon TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="XingKongTV.Id" tvg-logo="https://static.visionplus.id/images/channel/368cf482/df93.png" group-title="Entertainment",Xingkong TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="AnhuiTV.Id" tvg-logo="https://static.visionplus.id/images/channel/0374f319/1546.png" group-title="Entertainment",Anhui TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="NHKWorldJapan.jp" tvg-logo="https://static.visionplus.id/images/channel/18f76615/81bd.png" group-title="Entertainment",NHK World TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="NHKWorldPremium.jp" tvg-logo="https://static.visionplus.id/images/channel/13d387ba/1b7c.png" group-title="Entertainment",NHK World Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="AnimaxAsia.sg" tvg-logo="https://static.visionplus.id/images/channel/b21905b7/540e.png" group-title="Kids",Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502022_tvchannels_v1.jpg" group-title="Kids", Aniplus
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.07.12 (Linux;Android 7.1.2) ExoPlayerLib/2.6.1
+http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="KidsTV.id" tvg-logo="https://static.visionplus.id/images/channel/9536025c/8692.png" group-title="Kids",Kids Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="NickJrAsia.sg" tvg-logo="https://static.visionplus.id/images/channel/ef2db275/4e0a.png" group-title="Kids",Nick Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="MiaoMi.hk" tvg-logo="https://static.visionplus.id/images/channel/2cd0bc05/db86.png" group-title="Kids",MiaoMi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="BoomerangSoutheastAsia.us" tvg-logo="https://static.visionplus.id/images/channel/54db8d52/d6c5.png" group-title="Kids",Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="BabyTV.uk" tvg-logo="https://static.visionplus.id/images/channel/5891c612/6e16.png" group-title="Kids",Baby TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="CBeebiesAsia.uk" tvg-logo="https://static.visionplus.id/images/channel/47dd2f55/2e43.png" group-title="Kids",CBeebies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://static.visionplus.id/images/channel/9b76bdee/a86f.png" group-title="Kids",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="NickJrAsia.sg" tvg-logo="https://static.visionplus.id/images/channel/7a9e72f3/bf00.png" group-title="Kids",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.mncnow.id/images/channel/bd4f56c1/74f4_r32.jpg",Cinemachi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.mncnow.id/images/channel/9ebf59d0/a31c_r32.jpg",Cinemachi Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.mncnow.id/images/channel/26a588c7/e3f2_r32.jpg",Cinemachi Max
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.mncnow.id/images/channel/eae4114e/c5cc_r32.jpg",Cinemachi Extra
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.mncnow.id/images/channel/039c4e27/adf0_r32.jpg",Cinemachi Kids
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:-1 group-title="Movies" tvg-id="mycinema.id" tvg-logo="https://static.mncnow.id/images/channel/63d8f609/a932_r32.jpg",My Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:-1 group-title="Movies" tvg-id="mycinemaasia.id" tvg-logo="https://static.mncnow.id/images/channel/619a29b3/7acd_r32.jpg",My Cinema Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:-1 group-title="Movies" tvg-id="myfamily.id" tvg-logo="https://static.mncnow.id/images/channel/50a48964/cc41_r32.jpg",My Family Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="Movies",My Cinema Europe
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.07.12 (Linux;Android 7.1.2) ExoPlayerLib/2.6.1
+http://rr.dens.tv/h/h18/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="IMC.id" tvg-logo="https://static.visionplus.id/images/channel/744ecff1/e339.png" group-title="Movies",IMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="Galaxy.id" tvg-logo="https://static.visionplus.id/images/channel/94cea23f/59f5.png" group-title="Movies",Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="GalaxyPremium.id" tvg-logo="https://static.visionplus.id/images/channel/0d4e8c1c/3028.png" group-title="Movies",Galaxy Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:0 tvg-id="WarnerTVAsia.us" tvg-logo="https://static.visionplus.id/images/channel/90b9866a/199f.png" group-title="Movies",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/warner.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="Thrill.hk" tvg-logo="https://static.visionplus.id/images/channel/23403532/a734.png" group-title="Movies",Thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="CelestialMoviesIndonesia.id" tvg-logo="https://static.visionplus.id/images/channel/920951dc/fad9.png" group-title="Movies",Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="CCM.hk" tvg-logo="https://static.visionplus.id/images/channel/b8a82039/b40f.png" group-title="Movies",Celestial Classic Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://static.visionplus.id/images/channel/1cd7e810/7d25.png" group-title="Movies",ZEE BIOSKOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="tvNMoviesAsia.hk" tvg-logo="https://static.visionplus.id/images/channel/2b73b3f9/a360.png" group-title="Movies",tvN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="HITSMovies.sg" tvg-logo="https://static.visionplus.id/images/channel/a4cd7aad/5e83.png" group-title="Movies",HITS Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="CinemaWorld.my" tvg-logo="https://static.visionplus.id/images/channel/8ac326e0/55ff.png" group-title="Movies",Cinema World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="MNCNews.id" tvg-logo="https://static.visionplus.id/images/channel/fbed5910/9a57.png" group-title="News",MNC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="IDXChannel.id" tvg-logo="https://static.visionplus.id/images/channel/21c765db/6eaa.png" group-title="News",IDX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="SEAToday.id" tvg-logo="https://static.visionplus.id/images/channel/49107d4c/68e8.png" group-title="News",SEA TODAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="CNAInternational.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_330.png" group-title="News",Channel News Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://static.visionplus.id/images/channel/81561f54/44ab.png" group-title="News",AL JAZEERA English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://static.visionplus.id/images/channel/4be44eca/6c3e.png" group-title="News",BBC World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="CNNInternationalAsiaPacific.hk" tvg-logo="https://static.visionplus.id/images/channel/7b15bd51/9ee6.png" group-title="News",CNN International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="EuronewsEnglish.fr" tvg-logo="https://static.visionplus.id/images/channel/7fc225e8/cfff.png" group-title="News",EuroNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="CNBCAsia.sg" tvg-logo="https://static.visionplus.id/images/channel/4ac016ab/e077.png" group-title="News",CNBC Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="RTEnglish.Id" tvg-logo="https://static.visionplus.id/images/channel/2ed8b52a/f823.png" group-title="News",RT English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="France24English.fr" tvg-logo="https://static.visionplus.id/images/channel/cc7e4f8a/8bed.png" group-title="News",France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="DWEnglish.de" tvg-logo="https://static.visionplus.id/images/channel/ea6a4d6d-345.png" group-title="News",DW TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="TRTWorld.tr" tvg-logo="https://static.visionplus.id/images/channel/7ba5f80e/23ac.png" group-title="News",TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="CGTN.cn" tvg-logo="https://static.visionplus.id/images/channel/e150ffe7/aeee.png" group-title="News",CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="BloombergTVAsia.hk" tvg-logo="https://static.visionplus.id/images/channel/6cc370f2/72d9.png" group-title="News",Bloomberg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="FoxNewsChannel.us" tvg-logo="https://static.visionplus.id/images/channel/d6e1ac3a/39e2.png" group-title="News",FOX News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="beINSports1Indonesia.id" tvg-logo="https://static.visionplus.id/images/channel/2dac8f8b/103c.png" group-title="Sports",beIN Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="beINSports3Indonesia.id" tvg-logo="https://static.visionplus.id/images/channel/7935feea/9604.png" group-title="Sports",beIN Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://static.visionplus.id/images/channel/d4a3bbd6/4b47.png" group-title="Sports",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="SPOTV2.kr" tvg-logo="https://static.visionplus.id/images/channel/fa2e7f65/768b.png" group-title="Sports",SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="MNCSports.id" tvg-logo="https://static.visionplus.id/images/channel/8516066c/202f.png" group-title="Sports",MNC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="MNCSports2.id" tvg-logo="https://static.visionplus.id/images/channel/43c1d4cb/c5cd.png" group-title="Sports",MNC Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="MNCSports3.id" tvg-logo="https://static.visionplus.id/images/channel/ab95086a/892d.png" group-title="Sports",MNC Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="FightSports.us" tvg-logo="https://static.visionplus.id/images/channel/11b52125/5eed.png" group-title="Sports",Fight Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://static.visionplus.id/images/channel/c0cec9b0/08d4.png" group-title="Sports",Soccer Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="MuslimTV.id" tvg-logo="https://static.visionplus.id/images/channel/67bf9750/1608.png" group-title="Religi",Muslim TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="QuranTV.sa" tvg-logo="https://static.visionplus.id/images/channel/ec83b9fb-76f.png" group-title="Religi",Al Quran Al Kareem
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="TV9Nusantara.id" tvg-logo="https://static.visionplus.id/images/channel/32f7fe21-ce6.png" group-title="Religi",TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="TVMUI.id" tvg-logo="https://static.visionplus.id/images/channel/6e34c573-fd3.png" group-title="Religi",TVMU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="TawafTV.id" tvg-logo="https://static.visionplus.id/images/channel/0a9f9dab/9715.png" group-title="Religi",Tawaf TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="ArirangWorld.kr" tvg-logo="https://static.visionplus.id/images/channel/7900523f/e51f.png" group-title="News",Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="Besmart.id" tvg-logo="https://static.visionplus.id/images/channel/eff21185/3d32.png" group-title="Knowledge",Besmart
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+
+#EXTINF:0 tvg-id="DiscoveryChannelIndonesia.id" tvg-logo="https://static.visionplus.id/images/channel/a7badffc/b7d5.png" group-title="Knowledge",Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/disco.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="BBCEarthAsia.uk" tvg-logo="https://static.visionplus.id/images/channel/613c65c1/452b.png" group-title="Knowledge",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#EXTINF:0 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://static.visionplus.id/images/channel/0327d527/bfef.png" group-title="Knowledge",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/animalplanet.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="NationalGeographicIndonesia.id" tvg-logo="https://static.visionplus.id/images/channel/ddd89dec/3b1b.png" group-title="Knowledge",Nat Geo Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="NationalGeographicWildIndonesia.id" tvg-logo="https://static.visionplus.id/images/channel/395e08fd/f644.png" group-title="Knowledge",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="HistoryAsia.us" tvg-logo="https://static.visionplus.id/images/channel/b23821b1/38bc.png" group-title="Knowledge",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="CrimePlusInvestigationAsia.sg" tvg-logo="https://static.visionplus.id/images/channel/7a1e2ac8/2e68.png" group-title="Knowledge",Crime Investigation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="CGTNDocumentary.cn" tvg-logo="https://static.visionplus.id/images/channel/48351b87/2ca2.png" group-title="Knowledge",CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="AsianFoodNetwork.sg" tvg-logo="https://static.visionplus.id/images/channel/ac2d3a1f/2052.png" group-title="Lifestyle",AFN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="HGTVAsia.us" tvg-logo="https://static.visionplus.id/images/channel/3028d23b/ca82.png" group-title="Lifestyle",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="TLCSoutheastAsia.sg" tvg-logo="https://static.visionplus.id/images/channel/f462bb17/6663.png" group-title="Lifestyle",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia",TV1 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="Malaysia",TV6
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV7
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",8TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="Malaysia",TV OKEY
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtb-sukmaindera-bn.png",SUKMAINDERA
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png/revision/latest/scale-to-width-down/250?cb=20190121072917" group-title="Malaysia",ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" group-title="Malaysia",TV SUKAN
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV
+http://ku03.wanicelife.com:8880/12mm070056/67571551/71149
+http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malaysia",TV Ikim
+http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani HD
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Mediacorp_Suria_logo.svg/640px-Mediacorp_Suria_logo.svg.png",SURIA HD
+http://23.237.10.66:16492
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://assets.theedgemarkets.com/suketv.jpg",SUKE TV
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+
+#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502084_tvchannels_v1.jpg" group-title="Entertainment", K+
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png" group-title="Entertainment", KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
+#EXTINF:-1 channel-id="samsung-USAJ340000677" tvg-id="USAJ340000677" tvg-chno="1073" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/96/USAJ340000677_20220330T045016.png" group-title="Knowledge",Magellan TV
+https://6ad725dc59bb4e5c99db85fb2607a3f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MagellanTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 channel-id="samsung-USBA3400003IP" tvg-id="USBA3400003IP" tvg-chno="1404" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20220621T075847.png" group-title="Knowledge",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="Knowledge", Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/976/161/png-transparent-china-central-television-cctv-4-cgtn-russian-cctv-channels-television-channel-others-miscellaneous-television-text.png" group-title="News", CCTV4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.07.12 (Linux;Android 7.1.2) ExoPlayerLib/2.6.1
+https://op-group2-swiftservesd-1.dens.tv/s/s19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_UATV.png" group-title="News", UA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.07.12 (Linux;Android 7.1.2) ExoPlayerLib/2.6.1
+https://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",Magna Channel 
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png" group-title="News", WION
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.07.12 (Linux;Android 7.1.2) ExoPlayerLib/2.6.1
+https://op-group1-swiftservehd-1.dens.tv/h/h91/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-id="-1" tvg-name="GEM" tvg-logo="https://i.imgur.com/rGTHbAM.png" group-title="Entertainment",Sony GEM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/sgem.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", ABC Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/abcaustralia.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", AFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/afc.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Al-Jazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/aljazeera.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Al-Qur'an Kareem
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/alquran.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/animax.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Aniplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/aniplus.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Antara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/antara.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/antv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/arirang.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/atv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/axn.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", BaliTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/balitv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Bein 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/bein1.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Bein 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/bein2.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Berita Satu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/beritasatu.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Bioskop Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/bioskopindonesia.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Bloomberg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/bloomberg.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Blue Ant
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/blueant.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Blue Ant Extreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/blueantextreme.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/boomerang.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Cantoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/cartoonnetwork.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", CCTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/cctv4.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", CDrama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/cdrama.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/celestialmovie.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/cgtndocumentary.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Cinema World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/cinemaworld.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Citra Dangdut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/citradangdut.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", CNBC Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/cnbcasia.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/cnbcindonesia.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/cnnindonesia.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", CNN International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/cnninternational.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Crime Investigation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/crimeinvestigation.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", CTI Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/ctiasia.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/daaitv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Davinci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/davinci.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/disco.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", DreamWorks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/dreamworks.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Dunia Anak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/duniaanak.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Dunia Lain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/dunialain.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", DW TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/dwtv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Eat & Go
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/eatgo.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", ETT Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/ettvasia.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", EuroNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/euronews.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Fashion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/fashiontv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Fight Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/fightsport.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Flik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/flik.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Formosa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/formosa.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/france24.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/galaxy.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Galaxy Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/galaxypremium.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/hgtv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", History Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/history.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/hits.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", HITS Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/hitsmovie.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", HITS Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/hitsnow.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Horee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/horee.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Horizon Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/horizonsport.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", IDX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/idx.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", iKonser
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/ikonser.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", IMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/imc.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Indi Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/indiIndiHomeTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Indonesiana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/indonesiana.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/indosiar.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/inews.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Insert
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/insert.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Jak TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/jaktv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/jtv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/kbsworld.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/kix.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/kompastv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", K-Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/kplus.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Kungfu TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/kungfutv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/lifetime.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Lingua
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/lingua.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Maxstream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/maxstream.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/mentaritv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/metrotv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", MNC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/mncnews.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", MoonBug
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/moonbug.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", MQTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/mqtv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", MTV Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/mtvlive.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Muhammadiyah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/muhammadiyahtv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", MUI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/muitv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Musik Indo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/musikindo.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", My Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/mycinema.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", My Cinema Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/mycinemaasia.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", My Family Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/myfamily.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", My Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/mykids.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", NBA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/nba.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Net TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/net.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", News Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/newsasia.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", NHK World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/nhkworld.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/nickelodeon.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Nick Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/nickjr.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Nusantara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/nusantaratv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Moji TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/ochannel.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Panda TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/pandatv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Paramount
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/paramount.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Prambors TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/pramborstv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Rodja TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/rodjatv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", RRI Net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/rrinet.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/rtv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/sctv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", SEA Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/seatoday.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Seru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/seru.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Sony GEM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/sgem.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Sony ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/sone.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", SpoTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/spotv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", SpoTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/spotv2.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Tawaf TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/tawaftv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Techstorm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/techstorm.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/thrill.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/tlc.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/trans7.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/transtv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/trtworld.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", TV5 Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/tv5monde.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/tv9.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", TVBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/tvbs.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/tvn.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", TVN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/tvnmovies.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", TVONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/tvone.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/tvri.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", U-Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/uchannel.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", UseePrime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/useeprime.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", UseeSport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/useesport.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", UseeSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/useesports2.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/warner.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Z-Bioskop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/zbioskop.m3u8

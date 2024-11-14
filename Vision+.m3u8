@@ -22,12 +22,10 @@ http://iptvid.my.id/avc/cilutz89/jancox123/indosiar.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
 #EXTINF:0 tvg-id="GTV.id" tvg-logo="https://static.visionplus.id/images/channel/ef3eed68/040d.png" group-title="National TV",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
@@ -64,12 +62,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
 #EXTINF:0 tvg-id="tvOne.id" tvg-logo="https://static.visionplus.id/images/channel/9360c10a-308.png" group-title="National TV",TVONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
@@ -794,87 +790,65 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
+##########################
+######## MALAYSIA ########
+##########################
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia",TV1 
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2 
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" group-title="Malaysia",TV6
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV7
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",8TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="Malaysia",TV OKEY
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtb-sukmaindera-bn.png",SUKMAINDERA
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png/revision/latest/scale-to-width-down/250?cb=20190121072917" group-title="Malaysia",ANEKA
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" group-title="Malaysia",TV SUKAN
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV
-http://ku03.wanicelife.com:8880/12mm070056/67571551/71149
-http://w.nasvpn.xyz:8080/live/aaaa/aaaa/7856.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malaysia",TV Ikim
-http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani HD
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Mediacorp_Suria_logo.svg/640px-Mediacorp_Suria_logo.svg.png",SURIA HD
-http://23.237.10.66:16492
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://assets.theedgemarkets.com/suketv.jpg",SUKE TV
-https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+#EXTINF:-1 group-title="Malaysia" tvg-id="Berita RTM" tvg-logo="https://iptv.urfan.id/logo/beritartm.png",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=5
 
-#EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502084_tvchannels_v1.jpg" group-title="Entertainment", K+
-https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png" group-title="Entertainment", KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-id="Sukan RTM" tvg-logo="https://iptv.urfan.id/logo/sukanrtm.png",Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
 
-#EXTINF:-1 channel-id="samsung-USAJ340000677" tvg-id="USAJ340000677" tvg-chno="1073" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/96/USAJ340000677_20220330T045016.png" group-title="Knowledge",Magellan TV
-https://6ad725dc59bb4e5c99db85fb2607a3f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MagellanTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-USBA3400003IP" tvg-id="USBA3400003IP" tvg-chno="1404" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20220621T075847.png" group-title="Knowledge",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="Knowledge", Smithsonian Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-id="Okey" tvg-logo="https://iptv.urfan.id/logo/okeyrtm.png",Okey RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/976/161/png-transparent-china-central-television-cctv-4-cgtn-russian-cctv-channels-television-channel-others-miscellaneous-television-text.png" group-title="News", CCTV4
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.07.12 (Linux;Android 7.1.2) ExoPlayerLib/2.6.1
-https://op-group2-swiftservesd-1.dens.tv/s/s19/01.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-id="tv1.my" tvg-logo="https://iptv.urfan.id/logo/tv1.png",TV1 Malaysia
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_UATV.png" group-title="News", UA
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.07.12 (Linux;Android 7.1.2) ExoPlayerLib/2.6.1
-https://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-id="tv2.my" tvg-logo="https://iptv.urfan.id/logo/tv2.png",TV2 Malaysia
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 
-#EXTINF:-1 group-title="National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",Magna Channel 
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#EXTINF:-1 group-title="Malaysia" tvg-id="TV6" tvg-logo="https://iptv.urfan.id/logo/tv6.png",TV6 Malaysia
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png" group-title="News", WION
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.07.12 (Linux;Android 7.1.2) ExoPlayerLib/2.6.1
-https://op-group1-swiftservehd-1.dens.tv/h/h91/S4/mnf.m3u8
+########################
+######## BRUNAI ########
+########################
 
-#EXTINF:-1 tvg-id="-1" tvg-name="GEM" tvg-logo="https://i.imgur.com/rGTHbAM.png" group-title="Entertainment",Sony GEM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/sgem.m3u8
+#EXTINF:-1 group-title="Brunai" tvg-logo="https://iptv.urfan.id/logo/sukmaindera.png",RTB Sukmaindera
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+
+#EXTINF:-1 group-title="Brunai" tvg-id="Aneka" tvg-logo="https://iptv.urfan.id/logo/aneka.png",RTB Aneka
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Brunai" tvg-id="GoLive" tvg-logo="https://iptv.urfan.id/logo/golive.png",RTB Go Live
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+############################
+######## INDIHOMETV ########
+############################
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -892,6 +866,10 @@ http://iptvid.my.id/avc/cilutz89/jancox123/aljazeera.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/alquran.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/animalplanet.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -920,6 +898,12 @@ http://iptvid.my.id/avc/cilutz89/jancox123/atv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/axn.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjQxMDQyNzgtZjdmYS0zNmUzLWE3MmMtMTY0ZTdlOThlMzVm
+#EXTINF:0 tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", BaliTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -976,6 +960,10 @@ http://iptvid.my.id/avc/cilutz89/jancox123/celestialmovie.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/cgtndocumentary.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Cinema China
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/chinesedrama.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1004,10 +992,10 @@ http://iptvid.my.id/avc/cilutz89/jancox123/cnninternational.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/crimeinvestigation.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", CTI Asia
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Curiosity
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/ctiasia.m3u8
+http://iptvid.my.id/avc/cilutz89/jancox123/curiosity.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1020,6 +1008,10 @@ http://iptvid.my.id/avc/cilutz89/jancox123/davinci.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/disco.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/discoveryasia.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", DreamWorks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1040,34 +1032,28 @@ http://iptvid.my.id/avc/cilutz89/jancox123/dwtv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/eatgo.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", ETT Asia
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", EuroIndiHomeTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/ettvasia.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", EuroNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/euronews.m3u8
+http://iptvid.my.id/avc/cilutz89/jancox123/euroIndiHomeTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/fashiontv.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Fight Sport
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Fight IndiHomeTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/fightsport.m3u8
+http://iptvid.my.id/avc/cilutz89/jancox123/fightIndiHomeTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Flik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/flik.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Formosa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/formosa.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/france24.m3u8
+#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV",GTV
+https://d2xtw5169mz0bd.cloudfront.net/index_1.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Galaxy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1100,10 +1086,14 @@ http://iptvid.my.id/avc/cilutz89/jancox123/hitsnow.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/horee.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Horizon Sport
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Horizon IndiHomeTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/horizonsport.m3u8
+http://iptvid.my.id/avc/cilutz89/jancox123/horizonIndiHomeTV.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", IDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/idtv.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", IDX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1116,7 +1106,7 @@ http://iptvid.my.id/avc/cilutz89/jancox123/ikonser.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/imc.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Indi Kids
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Indi IndiHomeTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/indiIndiHomeTV.m3u8
@@ -1128,10 +1118,10 @@ http://iptvid.my.id/avc/cilutz89/jancox123/indonesiana.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/indosiar.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", iNews
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", iIndiHomeTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/inews.m3u8
+http://iptvid.my.id/avc/cilutz89/jancox123/iIndiHomeTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Insert
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1140,6 +1130,10 @@ http://iptvid.my.id/avc/cilutz89/jancox123/insert.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/jaktv.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Jawa Pos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/jawapos.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1172,6 +1166,10 @@ http://iptvid.my.id/avc/cilutz89/jancox123/lifetime.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/lingua.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Love Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/lovenature.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Maxstream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1184,10 +1182,10 @@ http://iptvid.my.id/avc/cilutz89/jancox123/mentaritv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/metrotv.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", MNC News
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", MNC IndiHomeTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/mncnews.m3u8
+http://iptvid.my.id/avc/cilutz89/jancox123/mncIndiHomeTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", MoonBug
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1212,22 +1210,10 @@ http://iptvid.my.id/avc/cilutz89/jancox123/muitv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/musikindo.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", My Cinema
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", My IndiHomeTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/mycinema.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", My Cinema Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/mycinemaasia.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", My Family Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/myfamily.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", My Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/mykids.m3u8
+http://iptvid.my.id/avc/cilutz89/jancox123/myIndiHomeTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", NBA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1236,10 +1222,22 @@ http://iptvid.my.id/avc/cilutz89/jancox123/nba.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/net.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", News Asia
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", IndiHomeTV Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/newsasia.m3u8
+http://iptvid.my.id/avc/cilutz89/jancox123/IndiHomeTVasia.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", IndiHomeTV Comprehensive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/newtvcomprehensive.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", IndiHomeTV Finance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/newtvfinance.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", IndiHomeTV Variety
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/newtvvariety.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", NHK World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1251,7 +1249,7 @@ http://iptvid.my.id/avc/cilutz89/jancox123/nickelodeon.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Nick Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/nickjr.m3u8
+http://iptvid.my.id/avc/cilutz89/jancox123/nickelodeon.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1264,10 +1262,6 @@ http://iptvid.my.id/avc/cilutz89/jancox123/ochannel.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/pandatv.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Paramount
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/paramount.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Prambors TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1284,6 +1278,8 @@ http://iptvid.my.id/avc/cilutz89/jancox123/rrinet.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/rtv.m3u8
+#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV",RCTI
+https://dyyoolx1ntf3k.cloudfront.net/index_1.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1296,22 +1292,10 @@ http://iptvid.my.id/avc/cilutz89/jancox123/seatoday.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/seru.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Sony GEM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/sgem.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Sony ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/sone.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", SpoTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/spotv.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", SpoTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/spotv2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Tawaf TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1324,6 +1308,10 @@ http://iptvid.my.id/avc/cilutz89/jancox123/techstorm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/thrill.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Timer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+http://iptvid.my.id/avc/cilutz89/jancox123/timer.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1336,10 +1324,6 @@ http://iptvid.my.id/avc/cilutz89/jancox123/trans7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/transtv.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", TRT World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/trtworld.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", TV5 Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -1376,14 +1360,6 @@ http://iptvid.my.id/avc/cilutz89/jancox123/uchannel.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 http://iptvid.my.id/avc/cilutz89/jancox123/useeprime.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", UseeSport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/useesport.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", UseeSport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-http://iptvid.my.id/avc/cilutz89/jancox123/useesports2.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7PFCtp9H/use.jpg" group-title="IndiHomeTV", Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
